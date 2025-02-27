@@ -1,0 +1,61 @@
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 1
+Enter Employee ID: 101
+Enter Employee Name: Ankit 
+Enter Employee Salary: 40000
+Employee added successfully.
+
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 2
+Enter Employee ID to update: 101
+Enter new name: Kaushal
+Enter new salary: 50000
+Employee updated successfully.
+
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 3
+Enter Employee ID to remove: 101
+Employee removed if existed.
+
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 4
+Enter Employee ID to search: 101
+Employee not found.
+
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 5
+No employees found.
