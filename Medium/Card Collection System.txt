@@ -1,0 +1,17 @@
+Card Collection System
+1. Find Cards by Symbol
+2. Display All Cards
+3. Exit
+Enter your choice: 1
+Enter symbol (e.g., Hearts, Spades): Hearts
+Cards in Hearts: [Ace, King]
+
+Card Collection System
+1. Find Cards by Symbol
+2. Display All Cards
+3. Exit
+Enter your choice: 2
+Spades: [Queen]
+Diamonds: [Jack]
+Hearts: [Ace, King]
+Clubs: [10]
