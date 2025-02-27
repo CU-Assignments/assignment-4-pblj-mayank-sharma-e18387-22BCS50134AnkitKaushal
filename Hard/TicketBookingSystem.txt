@@ -1,0 +1,4 @@
+VIP1 successfully booked seat 2
+Regular1 - Seat 2 is already booked.
+VIP2 successfully booked seat 3
+Regular2 successfully booked seat 4
